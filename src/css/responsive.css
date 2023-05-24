@@ -1,0 +1,10 @@
+@media(max-width: 425px) {
+    .card {
+        padding: 40px 20px;
+        margin: 20px;
+    }
+
+    .conteudo .btn-rating ul .rate{
+        margin: 5px;
+    }
+}
